@@ -11,4 +11,4 @@ fail and return `NULL`.  As this failure case is possible in systems with
 aggressive ulimit rules or embedded constraints, it is often desirable to model
 cases where dynamic memory allocation fails.
 
-[cbmc-link]: https://cprover.org/cbmc
+[cbmc-link]: https://www.cprover.org/cbmc
